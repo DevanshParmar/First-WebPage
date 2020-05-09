@@ -1,0 +1,30 @@
+img{
+    display:block; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 35%;}
+.heading{ 
+    font-size: 200%;
+    font-variant: small-caps;
+    text-align: center;}
+a{
+    color: #e6ca1a;}
+a:hover{
+    color: #b28214;}
+body{ 
+    padding: 35px;
+    padding-bottom: 50px;
+    background-image: url("https://raw.githubusercontent.com/DevanshParmar/HomePage/master/NYCBGTiltShift.jpg");
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Averia Serif Libre', serif;
+    font-size: 120%;
+    color: #f0cc60;
+    line-height: 28px;
+    text-align: justify;}
+ul{
+    list-style-type: none;}
